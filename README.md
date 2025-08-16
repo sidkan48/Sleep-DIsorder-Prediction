@@ -1,1 +1,1 @@
-# Sleep-DIsorder-Prediction
+# Sleep-Disorder-Prediction
